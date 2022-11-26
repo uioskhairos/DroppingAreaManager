@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/successbg"
+    android:layout_marginTop="150dp"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="@color/dark_orange"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/successTextView"
+        android:layout_width="233dp"
+        android:layout_height="107dp"
+        android:backgroundTint="@color/dark_orange"
+        android:background="@drawable/rounded3"
+        android:layout_marginVertical="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:text="Success. You can now proceed to our Dropping Area to drop your item."
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:paddingTop="15dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>

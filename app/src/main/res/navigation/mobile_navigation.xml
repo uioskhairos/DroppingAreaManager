@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/droppersFragment"
+        android:name="com.droppingareamanager.app.DroppersFragment"
+        android:label="Droppers"
+        tools:layout="@layout/fragment_droppers" />
+    <fragment
+        android:id="@+id/itemsFragment"
+        android:name="com.droppingareamanager.app.user.ItemsFragment"
+        android:label="Drop an Item"
+        tools:layout="@layout/fragment_items">
+        <argument
+            android:name="noOfItems"
+            android:defaultValue="0"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.droppingareamanager.app.user.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_itemsFragment"
+            app:destination="@id/itemsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_droppersFragment"
+            app:destination="@id/droppersFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_cashoutFragment"
+            app:destination="@id/cashoutFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_droppedItemsFragment"
+            app:destination="@id/droppedItemsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_subscriptionFragment"
+            app:destination="@id/subscriptionFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_notificationsFragment2"
+            app:destination="@id/notificationsFragment2" />
+        <action
+            android:id="@+id/action_homeFragment_to_login"
+            app:destination="@id/login" />
+        <action
+            android:id="@+id/action_homeFragment_to_cashoutReqFragment"
+            app:destination="@id/cashoutReqFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_logout"
+            app:destination="@id/logout" />
+    </fragment>
+    <fragment
+        android:id="@+id/cashoutFragment"
+        android:name="com.droppingareamanager.app.user.CashoutFragment"
+        android:label="Cashouts"
+        tools:layout="@layout/fragment_cashout" />
+    <fragment
+        android:id="@+id/droppedItemsFragment"
+        android:name="com.droppingareamanager.app.user.DroppedItemsFragment"
+        android:label="Dropped Items Inventory"
+        tools:layout="@layout/fragment_dropped_items" />
+    <fragment
+        android:id="@+id/subscriptionFragment"
+        android:name="com.droppingareamanager.app.SubscriptionFragment"
+        android:label="Subscriptions"
+        tools:layout="@layout/fragment_subscription" />
+    <fragment
+        android:id="@+id/notificationsFragment2"
+        android:name="com.droppingareamanager.app.NotificationsFragment"
+        android:label="Notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <activity
+        android:id="@+id/login"
+        android:name="com.droppingareamanager.app.Login"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/cashoutReqFragment"
+        android:name="com.droppingareamanager.app.user.CashoutReqFragment"
+        android:label="Request Cashout" />
+    <activity
+        android:id="@+id/logout"
+        android:name="com.droppingareamanager.app.Logout"
+        android:label="activity_logout"
+        tools:layout="@layout/activity_logout" />
+</navigation>

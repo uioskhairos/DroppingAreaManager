@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout-land/activity_dashboard.xml" value="0.16181657848324515" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout-land/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout-land/droppers_list_admin.xml" value="0.1710758377425044" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout-land/fragment_cashout_req.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout-land/fragment_success_cashout_dialog.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_addcashoutdialog_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_admin_cashout.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_approve_items_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_daily_sales.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_dashboard.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_droppers_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_forgot_password.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_logout.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_monthly_sales.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_sales.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_settings.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_update_cashout_admin.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_update_item_admin_activity.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/activity_yearly_sales.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/cashouts_list.xml" value="0.1578125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/cashouts_list_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/droppers_list_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_add_items_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_cashout.xml" value="0.1578125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_cashout_req.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_dropped_items.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_items.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_loading_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_success_cashout_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/fragment_success_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/items_list.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/items_list_admin.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/sales_list.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/search_shopname_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/layout/user_settings_dialog.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/menu/menu_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/DroppingAreaManager/app/src/main/res/menu/menu_toolbar.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

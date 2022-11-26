@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "970509858443",
+    "firebase_url": "https://droppingareamanager-default-rtdb.firebaseio.com",
+    "project_id": "droppingareamanager",
+    "storage_bucket": "droppingareamanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970509858443:android:e9e08dcab9a9678ed8c68e",
+        "android_client_info": {
+          "package_name": "com.blessingdropshop.droppingareamanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970509858443-87sv3frksru5rdjkh79g94nr4puslbfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3pLhcRzZUKBVwp9lhS-jL6qAbzr-1gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970509858443-87sv3frksru5rdjkh79g94nr4puslbfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970509858443:android:60e1346f6a2df8d7d8c68e",
+        "android_client_info": {
+          "package_name": "com.droppingareamanager.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970509858443-87sv3frksru5rdjkh79g94nr4puslbfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3pLhcRzZUKBVwp9lhS-jL6qAbzr-1gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970509858443-87sv3frksru5rdjkh79g94nr4puslbfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_sortItems">
+        <item>All</item>
+        <item>Pending</item>
+        <item>Dropped</item>
+        <item>Claimed</item>
+        <item>Pulled out</item>
+        <item>Declined</item>
+    </string-array>
+    <string-array name="array_sortCashouts">
+        <item>All</item>
+        <item>Pending</item>
+        <item>Completed</item>
+        <item>Declined</item>
+    </string-array>
+    <string-array name="array_sales">
+        <item>Daily</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+    <string-array name="array_sortDate">
+        <item>Select</item>
+        <item>Date Dropped</item>
+        <item>Date Claimed</item>
+    </string-array>
+    <string-array name="array_register">
+        <item>Select Account Type</item>
+        <item>Dropper</item>
+        <item>Dropping Area</item>
+    </string-array>
+    <string-array name="array_cashout">
+        <item>Select Payment Method</item>
+        <item>Cash</item>
+        <item>Gcash</item>
+    </string-array>
+</resources>
